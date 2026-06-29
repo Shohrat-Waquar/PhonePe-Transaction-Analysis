@@ -25,7 +25,7 @@ This project focuses on analyzing PhonePe transaction data using Power BI to unc
 - Variation in category usage across regions
 
 ## 📷 Dashboard Preview
-
+- https://github.com/Shohrat-Waquar/PhonePe-Transaction-Analysis/blob/main/Dashboard.png
 
 ## 🚀 How to Use
 1. Download the `.pbit` file
